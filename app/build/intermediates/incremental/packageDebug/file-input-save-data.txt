@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Aug 15 18:36:40 BDT 2018
+1.base=C\:\\Android\\servicedemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Android\\servicedemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=C\:\\Android\\servicedemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Android\\servicedemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.set=ANDROID_RESOURCE
+2.set=DEX
+2.file=C\:\\Android\\servicedemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Android\\servicedemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Android\\servicedemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Android\\servicedemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.file=C\:\\Android\\servicedemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=C\:\\Android\\servicedemo\\app\\build\\intermediates\\res\\resources-debug.ap_
